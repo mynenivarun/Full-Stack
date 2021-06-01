@@ -1,0 +1,29 @@
+{
+    "persons": [
+      {
+        "name": "Arto Hellas",
+        "id": 1,
+        "phone": "040-123456"
+      },
+      {
+        "name": "Mary Poppendieck",
+        "id": 2,
+        "phone": "39-23-6423122"
+      },
+      {
+        "name": "Dan Abramov",
+        "phone": "044672345",
+        "id": 5
+      },
+      {
+        "name": "Vladimir Putin",
+        "phone": "666-HELL-1488",
+        "id": 6
+      },
+      {
+        "name": "Sanna Marin",
+        "phone": "0407935647",
+        "id": 7
+      }
+    ]
+  }
